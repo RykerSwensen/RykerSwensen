@@ -15,11 +15,11 @@
 
 [Email Me](mailto:rykerswensen@gmail.com)
 <br>
-<a href="rykerswensen.com" target="_blank">
+<a href="rykerswensen.com" target="_blank" rel="noreferrer">
     Visit My Site
 </a>
 <br>
-<a href="https://www.linkedin.com/in/ryker-swensen-909588264/" target="_blank">
+<a href="https://www.linkedin.com/in/ryker-swensen-909588264/" target="_blank" rel="noreferrer">
     LinkedIn
 </a>
 <br>
