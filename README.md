@@ -15,7 +15,7 @@
 
 [Email Me](mailto:rykerswensen@gmail.com)
 <br>
-<a href="rykerswensen.com" target="_blank" rel="noreferrer">
+<a href="https://rykerswensen.com/" target="_blank" rel="noreferrer">
     Visit My Site
 </a>
 <br>
