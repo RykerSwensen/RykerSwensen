@@ -3,7 +3,7 @@
 
 <!-- GitHub Cover Banner -->
 <p align="center">
-  <img width="50%" style="border-radius:10px" src="./images/IMG_3848.JPG" />
+  <img width="30%" style="border-radius:10px" src="./images/IMG_3848.JPG" />
 </p>
 
 <!-- GitHub Hero Message -->
@@ -14,8 +14,11 @@
 <div align="center">
 
 [Email Me](rykerswensen@gmail.com)
+<br>
 [Visit My Site](rykerswensen.com)
+<br>
 [LinkedIn](https://www.linkedin.com/in/ryker-swensen-909588264/)
+<br>
 <p>
     <a href="./docs/MyResume.pdf" download="MyPortfolio" target='_blank' rel="noreferrer">
         <Button style="border-radius:5px; background-color:#F79256; color:white;" className='flat-button'>Click To Download My Resume
