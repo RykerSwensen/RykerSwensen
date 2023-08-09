@@ -13,7 +13,7 @@
 <br>
 <div align="center">
 
-[Email Me](rykerswensen@gmail.com)
+[Email Me](mailto:rykerswensen@gmail.com)
 <br>
 [Visit My Site](rykerswensen.com)
 <br>
@@ -21,7 +21,7 @@
 <br>
 <p>
     <a href="./docs/MyResume.pdf" download="MyPortfolio" target='_blank' rel="noreferrer">
-        <Button style="border-radius:5px; background-color:#F79256; color:white;" className='flat-button'>Click To Download My Resume
+        <Button style="border-radius:5px; background-color:#F79256; color:white;" className='flat-button'>Resume
         </Button>
     </a>
 </p>
