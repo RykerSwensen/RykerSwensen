@@ -15,9 +15,13 @@
 
 [Email Me](mailto:rykerswensen@gmail.com)
 <br>
-[Visit My Site](rykerswensen.com)
+<a href="rykerswensen.com" target="_blank">
+    Visit My Site
+</a>
 <br>
-[LinkedIn](https://www.linkedin.com/in/ryker-swensen-909588264/)
+<a href="https://www.linkedin.com/in/ryker-swensen-909588264/" target="_blank">
+    LinkedIn
+</a>
 <br>
 <p>
     <a href="./docs/MyResume.pdf" download="MyPortfolio" target='_blank' rel="noreferrer">
